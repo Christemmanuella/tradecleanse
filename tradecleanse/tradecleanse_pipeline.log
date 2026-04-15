@@ -1,0 +1,348 @@
+2026-04-15 11:19:56,514 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:19:56,604 | INFO | NaN avant : 2501
+2026-04-15 11:19:56,605 | INFO | NaN après : 2587
+2026-04-15 11:19:56,605 | INFO | NaN ajoutés : 86
+2026-04-15 11:19:56,605 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:19:56,606 | INFO | [Doublons] 8950 -> 8950 lignes
+2026-04-15 11:19:56,606 | INFO | [Types] 8950 -> 8950 lignes
+2026-04-15 11:19:56,607 | INFO | [asset_class] 8950 -> 8950 lignes
+2026-04-15 11:19:56,607 | INFO | [Incoherences financieres] 8950 -> 8950 lignes
+2026-04-15 11:19:56,607 | INFO | [Regles metier] 8950 -> 8950 lignes
+2026-04-15 11:19:56,608 | INFO | [Outliers] 8950 -> 8950 lignes
+2026-04-15 11:19:56,608 | INFO | [Valeurs manquantes] 8950 -> 8950 lignes
+2026-04-15 11:19:56,608 | INFO | [Pseudonymisation RGPD] 8950 -> 8950 lignes
+2026-04-15 11:19:56,860 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv
+2026-04-15 11:21:50,890 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:21:51,002 | INFO | NaN avant : 2501
+2026-04-15 11:21:51,037 | INFO | NaN après : 2587
+2026-04-15 11:21:51,046 | INFO | NaN ajoutés : 86
+2026-04-15 11:21:51,048 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:21:51,083 | INFO | Doublons exacts : 200
+2026-04-15 11:21:51,084 | INFO | Doublons sur trade_id : 200
+2026-04-15 11:21:51,091 | INFO | [Doublons] 8950 -> 8750 lignes (supprimés : 200)
+2026-04-15 11:21:51,092 | INFO | [Doublons] 8950 -> 8750 lignes
+2026-04-15 11:21:51,092 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:21:51,092 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:21:51,093 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:21:51,093 | INFO | [Regles metier] 8750 -> 8750 lignes
+2026-04-15 11:21:51,094 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:21:51,094 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:21:51,094 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:21:51,235 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv
+2026-04-15 11:24:13,023 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:24:13,104 | INFO | NaN avant : 2501
+2026-04-15 11:24:13,105 | INFO | NaN après : 2587
+2026-04-15 11:24:13,105 | INFO | NaN ajoutés : 86
+2026-04-15 11:24:13,106 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:24:13,128 | INFO | Doublons exacts : 200
+2026-04-15 11:24:13,128 | INFO | Doublons sur trade_id : 200
+2026-04-15 11:24:13,138 | INFO | [Doublons] 8950 -> 8750 lignes (supprimés : 200)
+2026-04-15 11:24:13,139 | INFO | [Doublons] 8950 -> 8750 lignes
+2026-04-15 11:24:13,209 | INFO | NaN ajoutés par conversion :
+2026-04-15 11:24:13,210 | INFO | 
+Series([], dtype: int64)
+2026-04-15 11:24:13,210 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:24:13,210 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:24:13,211 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:24:13,211 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:24:13,211 | INFO | [Regles metier] 8750 -> 8750 lignes
+2026-04-15 11:24:13,211 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:24:13,212 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:24:13,212 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:24:13,441 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv
+2026-04-15 11:25:59,224 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:25:59,286 | INFO | NaN avant : 2501
+2026-04-15 11:25:59,287 | INFO | NaN après : 2587
+2026-04-15 11:25:59,287 | INFO | NaN ajoutés : 86
+2026-04-15 11:25:59,288 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:25:59,320 | INFO | Doublons exacts : 200
+2026-04-15 11:25:59,321 | INFO | Doublons sur trade_id : 200
+2026-04-15 11:25:59,330 | INFO | [Doublons] 8950 -> 8750 lignes (supprimés : 200)
+2026-04-15 11:25:59,330 | INFO | [Doublons] 8950 -> 8750 lignes
+2026-04-15 11:25:59,436 | INFO | NaN ajoutés par conversion :
+2026-04-15 11:25:59,452 | INFO | 
+Series([], dtype: int64)
+2026-04-15 11:25:59,453 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:25:59,453 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:25:59,457 | INFO | Valeurs asset_class invalides (non mappées) : 945
+2026-04-15 11:25:59,462 | INFO | Valeurs finales asset_class : ['derivative' 'equity' 'fx' 'bond']
+2026-04-15 11:25:59,463 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:25:59,463 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:25:59,463 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:25:59,463 | INFO | [Regles metier] 8750 -> 8750 lignes
+2026-04-15 11:25:59,464 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:25:59,464 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:25:59,464 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:25:59,633 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv
+2026-04-15 11:28:51,211 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:28:51,262 | INFO | NaN avant : 2501
+2026-04-15 11:28:51,263 | INFO | NaN après : 2587
+2026-04-15 11:28:51,263 | INFO | NaN ajoutés : 86
+2026-04-15 11:28:51,263 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:28:51,288 | INFO | Doublons exacts : 200
+2026-04-15 11:28:51,289 | INFO | Doublons sur trade_id : 200
+2026-04-15 11:28:51,297 | INFO | [Doublons] 8950 -> 8750 lignes (supprimés : 200)
+2026-04-15 11:28:51,297 | INFO | [Doublons] 8950 -> 8750 lignes
+2026-04-15 11:28:51,362 | INFO | NaN ajoutés par conversion :
+2026-04-15 11:28:51,363 | INFO | 
+Series([], dtype: int64)
+2026-04-15 11:28:51,363 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:28:51,364 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:28:51,368 | INFO | Valeurs asset_class invalides (non mappées) : 945
+2026-04-15 11:28:51,371 | INFO | Valeurs finales asset_class : ['derivative' 'equity' 'fx' 'bond']
+2026-04-15 11:28:51,371 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:28:51,372 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:28:51,373 | INFO | Incohérences dates : 80
+2026-04-15 11:28:51,378 | INFO | Incohérences bid/ask : 120
+2026-04-15 11:28:51,384 | INFO | Incohérences mid_price : 297
+2026-04-15 11:28:51,388 | INFO | Prix hors fourchette : 150
+2026-04-15 11:28:51,392 | INFO | Notional négatif : 40
+2026-04-15 11:28:51,398 | INFO | Incohérence rating/défaut : 96
+2026-04-15 11:28:51,400 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:28:51,400 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:28:51,401 | INFO | [Regles metier] 8750 -> 8750 lignes
+2026-04-15 11:28:51,402 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:28:51,402 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:28:51,403 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:28:51,542 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv
+2026-04-15 11:30:46,424 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:30:46,503 | INFO | NaN avant : 2501
+2026-04-15 11:30:46,504 | INFO | NaN après : 2587
+2026-04-15 11:30:46,504 | INFO | NaN ajoutés : 86
+2026-04-15 11:30:46,504 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:30:46,532 | INFO | Doublons exacts : 200
+2026-04-15 11:30:46,533 | INFO | Doublons sur trade_id : 200
+2026-04-15 11:30:46,539 | INFO | [Doublons] 8950 -> 8750 lignes (supprimés : 200)
+2026-04-15 11:30:46,540 | INFO | [Doublons] 8950 -> 8750 lignes
+2026-04-15 11:30:46,610 | INFO | NaN ajoutés par conversion :
+2026-04-15 11:30:46,611 | INFO | 
+Series([], dtype: int64)
+2026-04-15 11:30:46,612 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:30:46,612 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:30:46,618 | INFO | Valeurs asset_class invalides (non mappées) : 945
+2026-04-15 11:30:46,621 | INFO | Valeurs finales asset_class : ['derivative' 'equity' 'fx' 'bond']
+2026-04-15 11:30:46,622 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:30:46,623 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:30:46,624 | INFO | Incohérences dates : 80
+2026-04-15 11:30:46,629 | INFO | Incohérences bid/ask : 120
+2026-04-15 11:30:46,637 | INFO | Incohérences mid_price : 297
+2026-04-15 11:30:46,641 | INFO | Prix hors fourchette : 150
+2026-04-15 11:30:46,644 | INFO | Notional négatif : 40
+2026-04-15 11:30:46,648 | INFO | Incohérence rating/défaut : 96
+2026-04-15 11:30:46,650 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:30:46,650 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:30:46,651 | INFO | country_risk hors plage : 12
+2026-04-15 11:30:46,654 | INFO | volatility_30d hors plage : 0
+2026-04-15 11:30:46,657 | INFO | default_flag invalide : 0
+2026-04-15 11:30:46,659 | INFO | quantity invalide : 0
+2026-04-15 11:30:46,670 | INFO | [Regles metier] 8750 -> 8750 lignes (supprimés : 0)
+2026-04-15 11:30:46,671 | INFO | [Regles metier] 8750 -> 8750 lignes
+2026-04-15 11:30:46,672 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:30:46,673 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:30:46,673 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:30:46,871 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv
+2026-04-15 11:34:13,503 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:34:13,591 | INFO | NaN avant : 2501
+2026-04-15 11:34:13,591 | INFO | NaN après : 2587
+2026-04-15 11:34:13,592 | INFO | NaN ajoutés : 86
+2026-04-15 11:34:13,592 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:34:13,624 | INFO | Doublons exacts : 200
+2026-04-15 11:34:13,625 | INFO | Doublons sur trade_id : 200
+2026-04-15 11:34:13,630 | INFO | [Doublons] 8950 -> 8750 lignes (supprimés : 200)
+2026-04-15 11:34:13,631 | INFO | [Doublons] 8950 -> 8750 lignes
+2026-04-15 11:34:13,708 | INFO | NaN ajoutés par conversion :
+2026-04-15 11:34:13,709 | INFO | 
+Series([], dtype: int64)
+2026-04-15 11:34:13,709 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:34:13,710 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:34:13,714 | INFO | Valeurs asset_class invalides (non mappées) : 945
+2026-04-15 11:34:13,716 | INFO | Valeurs finales asset_class : ['derivative' 'equity' 'fx' 'bond']
+2026-04-15 11:34:13,717 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:34:13,717 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:34:13,719 | INFO | Incohérences dates : 80
+2026-04-15 11:34:13,723 | INFO | Incohérences bid/ask : 120
+2026-04-15 11:34:13,729 | INFO | Incohérences mid_price : 297
+2026-04-15 11:34:13,735 | INFO | Prix hors fourchette : 150
+2026-04-15 11:34:13,738 | INFO | Notional négatif : 40
+2026-04-15 11:34:13,743 | INFO | Incohérence rating/défaut : 96
+2026-04-15 11:34:13,745 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:34:13,745 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:34:13,747 | INFO | country_risk hors plage : 12
+2026-04-15 11:34:13,749 | INFO | volatility_30d hors plage : 0
+2026-04-15 11:34:13,751 | INFO | default_flag invalide : 0
+2026-04-15 11:34:13,753 | INFO | quantity invalide : 0
+2026-04-15 11:34:13,762 | INFO | [Regles metier] 8750 -> 8750 lignes (supprimés : 0)
+2026-04-15 11:34:13,762 | INFO | [Regles metier] 8750 -> 8750 lignes
+2026-04-15 11:34:31,918 | INFO | notional_eur - outliers détectés : 1018
+2026-04-15 11:37:22,096 | INFO | volatility_30d - outliers détectés : 0
+2026-04-15 11:37:42,540 | INFO | volume_j - outliers détectés : 0
+2026-04-15 11:38:39,142 | INFO | Anomalies multivariées détectées : 151
+2026-04-15 11:38:39,143 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:38:39,144 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:38:39,144 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:38:39,145 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:38:39,437 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv
+2026-04-15 11:39:28,629 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:39:28,730 | INFO | NaN avant : 2501
+2026-04-15 11:39:28,731 | INFO | NaN après : 2587
+2026-04-15 11:39:28,731 | INFO | NaN ajoutés : 86
+2026-04-15 11:39:28,732 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:39:28,757 | INFO | Doublons exacts : 200
+2026-04-15 11:39:28,758 | INFO | Doublons sur trade_id : 200
+2026-04-15 11:39:28,764 | INFO | [Doublons] 8950 -> 8750 lignes (supprimés : 200)
+2026-04-15 11:39:28,764 | INFO | [Doublons] 8950 -> 8750 lignes
+2026-04-15 11:39:28,834 | INFO | NaN ajoutés par conversion :
+2026-04-15 11:39:28,835 | INFO | 
+Series([], dtype: int64)
+2026-04-15 11:39:28,836 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:39:28,836 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:39:28,842 | INFO | Valeurs asset_class invalides (non mappées) : 945
+2026-04-15 11:39:28,846 | INFO | Valeurs finales asset_class : ['derivative' 'equity' 'fx' 'bond']
+2026-04-15 11:39:28,846 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:39:28,847 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:39:28,849 | INFO | Incohérences dates : 80
+2026-04-15 11:39:28,852 | INFO | Incohérences bid/ask : 120
+2026-04-15 11:39:28,861 | INFO | Incohérences mid_price : 297
+2026-04-15 11:39:28,867 | INFO | Prix hors fourchette : 150
+2026-04-15 11:39:28,872 | INFO | Notional négatif : 40
+2026-04-15 11:39:28,880 | INFO | Incohérence rating/défaut : 96
+2026-04-15 11:39:28,883 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:39:28,884 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:39:28,886 | INFO | country_risk hors plage : 12
+2026-04-15 11:39:28,888 | INFO | volatility_30d hors plage : 0
+2026-04-15 11:39:28,890 | INFO | default_flag invalide : 0
+2026-04-15 11:39:28,892 | INFO | quantity invalide : 0
+2026-04-15 11:39:28,900 | INFO | [Regles metier] 8750 -> 8750 lignes (supprimés : 0)
+2026-04-15 11:39:28,901 | INFO | [Regles metier] 8750 -> 8750 lignes
+2026-04-15 11:39:31,749 | INFO | notional_eur - outliers détectés : 1018
+2026-04-15 11:39:40,927 | INFO | volatility_30d - outliers détectés : 0
+2026-04-15 11:39:42,852 | INFO | volume_j - outliers détectés : 0
+2026-04-15 11:39:46,133 | INFO | Anomalies multivariées détectées : 151
+2026-04-15 11:39:46,133 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:39:46,133 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:39:46,139 | INFO | asset_class imputée (10.80% NaN)
+2026-04-15 11:39:46,145 | INFO | volatility_30d imputée (13.70% NaN)
+2026-04-15 11:39:46,148 | INFO | credit_rating imputée (1.10% NaN)
+2026-04-15 11:39:46,153 | INFO | country_risk imputée (0.34% NaN)
+2026-04-15 11:39:46,158 | INFO | settlement_date NaT corrigés : 0
+2026-04-15 11:39:46,163 | INFO | trade_id manquants : 0
+2026-04-15 11:39:46,173 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:39:46,173 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:39:46,174 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:39:46,470 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv
+2026-04-15 11:40:59,312 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:40:59,381 | INFO | NaN avant : 2501
+2026-04-15 11:40:59,381 | INFO | NaN après : 2587
+2026-04-15 11:40:59,382 | INFO | NaN ajoutés : 86
+2026-04-15 11:40:59,382 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:40:59,406 | INFO | Doublons exacts : 200
+2026-04-15 11:40:59,406 | INFO | Doublons sur trade_id : 200
+2026-04-15 11:40:59,414 | INFO | [Doublons] 8950 -> 8750 lignes (supprimés : 200)
+2026-04-15 11:40:59,415 | INFO | [Doublons] 8950 -> 8750 lignes
+2026-04-15 11:40:59,478 | INFO | NaN ajoutés par conversion :
+2026-04-15 11:40:59,480 | INFO | 
+Series([], dtype: int64)
+2026-04-15 11:40:59,480 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:40:59,481 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:40:59,487 | INFO | Valeurs asset_class invalides (non mappées) : 945
+2026-04-15 11:40:59,490 | INFO | Valeurs finales asset_class : ['derivative' 'equity' 'fx' 'bond']
+2026-04-15 11:40:59,491 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:40:59,491 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:40:59,493 | INFO | Incohérences dates : 80
+2026-04-15 11:40:59,499 | INFO | Incohérences bid/ask : 120
+2026-04-15 11:40:59,508 | INFO | Incohérences mid_price : 297
+2026-04-15 11:40:59,512 | INFO | Prix hors fourchette : 150
+2026-04-15 11:40:59,515 | INFO | Notional négatif : 40
+2026-04-15 11:40:59,519 | INFO | Incohérence rating/défaut : 96
+2026-04-15 11:40:59,521 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:40:59,521 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:40:59,522 | INFO | country_risk hors plage : 12
+2026-04-15 11:40:59,523 | INFO | volatility_30d hors plage : 0
+2026-04-15 11:40:59,527 | INFO | default_flag invalide : 0
+2026-04-15 11:40:59,530 | INFO | quantity invalide : 0
+2026-04-15 11:40:59,538 | INFO | [Regles metier] 8750 -> 8750 lignes (supprimés : 0)
+2026-04-15 11:40:59,539 | INFO | [Regles metier] 8750 -> 8750 lignes
+2026-04-15 11:41:02,458 | INFO | notional_eur - outliers détectés : 1018
+2026-04-15 11:41:06,093 | INFO | volatility_30d - outliers détectés : 0
+2026-04-15 11:41:08,093 | INFO | volume_j - outliers détectés : 0
+2026-04-15 11:41:10,973 | INFO | Anomalies multivariées détectées : 151
+2026-04-15 11:41:10,974 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:41:10,974 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:41:10,986 | INFO | asset_class imputée (10.80% NaN)
+2026-04-15 11:41:10,993 | INFO | volatility_30d imputée (13.70% NaN)
+2026-04-15 11:41:10,998 | INFO | credit_rating imputée (1.10% NaN)
+2026-04-15 11:41:11,004 | INFO | country_risk imputée (0.34% NaN)
+2026-04-15 11:41:11,008 | INFO | settlement_date NaT corrigés : 0
+2026-04-15 11:41:11,014 | INFO | trade_id manquants : 0
+2026-04-15 11:41:11,023 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:41:11,024 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:41:11,024 | INFO | Pseudonymisation de la colonne : counterparty_name
+2026-04-15 11:41:11,060 | INFO | Pseudonymisation de la colonne : counterparty_id
+2026-04-15 11:41:11,093 | INFO | Pseudonymisation de la colonne : trader_id
+2026-04-15 11:41:11,125 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:41:11,125 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:41:11,455 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv
+2026-04-15 11:42:45,910 | INFO | Dataset charge : 8950 lignes, 20 colonnes
+2026-04-15 11:42:45,991 | INFO | NaN avant : 2501
+2026-04-15 11:42:45,991 | INFO | NaN après : 2587
+2026-04-15 11:42:45,991 | INFO | NaN ajoutés : 86
+2026-04-15 11:42:45,992 | INFO | [Sentinelles] 8950 -> 8950 lignes
+2026-04-15 11:42:46,015 | INFO | Doublons exacts : 200
+2026-04-15 11:42:46,015 | INFO | Doublons sur trade_id : 200
+2026-04-15 11:42:46,026 | INFO | [Doublons] 8950 -> 8750 lignes (supprimés : 200)
+2026-04-15 11:42:46,027 | INFO | [Doublons] 8950 -> 8750 lignes
+2026-04-15 11:42:46,094 | INFO | NaN ajoutés par conversion :
+2026-04-15 11:42:46,095 | INFO | 
+Series([], dtype: int64)
+2026-04-15 11:42:46,096 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:42:46,096 | INFO | [Types] 8750 -> 8750 lignes
+2026-04-15 11:42:46,100 | INFO | Valeurs asset_class invalides (non mappées) : 945
+2026-04-15 11:42:46,102 | INFO | Valeurs finales asset_class : ['derivative' 'equity' 'fx' 'bond']
+2026-04-15 11:42:46,103 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:42:46,103 | INFO | [asset_class] 8750 -> 8750 lignes
+2026-04-15 11:42:46,104 | INFO | Incohérences dates : 80
+2026-04-15 11:42:46,108 | INFO | Incohérences bid/ask : 120
+2026-04-15 11:42:46,118 | INFO | Incohérences mid_price : 297
+2026-04-15 11:42:46,122 | INFO | Prix hors fourchette : 150
+2026-04-15 11:42:46,124 | INFO | Notional négatif : 40
+2026-04-15 11:42:46,129 | INFO | Incohérence rating/défaut : 96
+2026-04-15 11:42:46,131 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:42:46,132 | INFO | [Incoherences financieres] 8750 -> 8750 lignes
+2026-04-15 11:42:46,134 | INFO | country_risk hors plage : 12
+2026-04-15 11:42:46,136 | INFO | volatility_30d hors plage : 0
+2026-04-15 11:42:46,138 | INFO | default_flag invalide : 0
+2026-04-15 11:42:46,140 | INFO | quantity invalide : 0
+2026-04-15 11:42:46,148 | INFO | [Regles metier] 8750 -> 8750 lignes (supprimés : 0)
+2026-04-15 11:42:46,148 | INFO | [Regles metier] 8750 -> 8750 lignes
+2026-04-15 11:42:48,751 | INFO | notional_eur - outliers détectés : 1018
+2026-04-15 11:42:53,731 | INFO | volatility_30d - outliers détectés : 0
+2026-04-15 11:42:55,988 | INFO | volume_j - outliers détectés : 0
+2026-04-15 11:42:58,625 | INFO | Anomalies multivariées détectées : 151
+2026-04-15 11:42:58,625 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:42:58,626 | INFO | [Outliers] 8750 -> 8750 lignes
+2026-04-15 11:42:58,635 | INFO | asset_class imputée (10.80% NaN)
+2026-04-15 11:42:58,639 | INFO | volatility_30d imputée (13.70% NaN)
+2026-04-15 11:42:58,642 | INFO | credit_rating imputée (1.10% NaN)
+2026-04-15 11:42:58,646 | INFO | country_risk imputée (0.34% NaN)
+2026-04-15 11:42:58,649 | INFO | settlement_date NaT corrigés : 0
+2026-04-15 11:42:58,652 | INFO | trade_id manquants : 0
+2026-04-15 11:42:58,658 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:42:58,658 | INFO | [Valeurs manquantes] 8750 -> 8750 lignes
+2026-04-15 11:42:58,659 | INFO | Pseudonymisation de la colonne : counterparty_name
+2026-04-15 11:42:58,683 | INFO | Pseudonymisation de la colonne : counterparty_id
+2026-04-15 11:42:58,783 | INFO | Pseudonymisation de la colonne : trader_id
+2026-04-15 11:42:58,827 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:42:58,827 | INFO | [Pseudonymisation RGPD] 8750 -> 8750 lignes
+2026-04-15 11:42:58,828 | INFO | ===== RAPPORT FINAL =====
+2026-04-15 11:42:58,828 | INFO | Lignes initiales : 8950
+2026-04-15 11:42:58,829 | INFO | Lignes finales   : 8750
+2026-04-15 11:42:58,829 | INFO | Colonnes initiales : 20
+2026-04-15 11:42:58,830 | INFO | Colonnes finales   : 25
+2026-04-15 11:42:58,838 | INFO | Taux de NaN global : 0.0
+2026-04-15 11:42:58,838 | INFO | Complétude : 1.0
+2026-04-15 11:42:58,840 | INFO | Doublons restants : 0
+2026-04-15 11:42:58,841 | INFO | Unicité : 1.0
+2026-04-15 11:42:58,841 | INFO | DATA QUALITY SCORE (DQS) : 100.0 / 100
+2026-04-15 11:42:58,841 | INFO | Niveau de qualité : EXCELLENT
+2026-04-15 11:42:59,091 | INFO | Dataset nettoyé sauvegardé : data/tradecleanse_clean.csv
+2026-04-15 11:42:59,337 | INFO | Dataset nettoye sauvegarde : tradecleanse_clean.csv

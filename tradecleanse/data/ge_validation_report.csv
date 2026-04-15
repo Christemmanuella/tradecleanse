@@ -1,0 +1,15 @@
+test,status,detail
+Unicité trade_id,PASS,0 doublons
+Colonnes obligatoires non nulles,PASS,0 NaN
+Dates cohérentes,PASS,0 erreurs
+bid < ask,PASS,0 erreurs
+Price dans fourchette,PASS,0 erreurs
+Mid price cohérent,PASS,0 erreurs
+Asset class valide,PASS,0 erreurs
+Pas de contradiction rating/défaut,PASS,0 erreurs
+Notional positif,PASS,0 erreurs
+Country risk valide,PASS,0 erreurs
+ISIN valide,PASS,0 erreurs
+Volatility valide,PASS,0 erreurs
+Complétude > 90%,PASS,99.4%
+Pas de PII en clair,PASS,
